@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Bree_serif;
+    src: url(../font/Bree_Serif/BreeSerif-Regular.ttf);
+}
+@font-face {
+    font-family: Dancing_script;
+    src: url(../font/Dancing_Script/DancingScript-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: Lobster;
+    src: url(../font/Lobster/Lobster-Regular.ttf);
+}
+@font-face {
+    font-family: Petif_Formal_Script;
+    src: url(../font/Petit_Formal_Script/PetitFormalScript-Regular.ttf);
+}
+@font-face {
+    font-family: Roboto_Slab;
+    src: url(../font/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf);
+}
